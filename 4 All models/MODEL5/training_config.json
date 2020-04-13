@@ -1,0 +1,8 @@
+{
+    "embeddings_dictionary_size": 1193515,
+    "embeddings_vector_size": 200,
+    "padding_size": 100,
+    "batch_size": 1000,
+    "embeddings_path": "s3://ai-ops-skand-a6/embedding_dictionary/glove.twitter.27B.200d.txt",
+    "input_tensor_name": "embedding_input"
+}
