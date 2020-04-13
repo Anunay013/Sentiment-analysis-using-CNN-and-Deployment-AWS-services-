@@ -1,4 +1,4 @@
-# AI-Ops-A6
+# Sentiment analysis using CNN and Deployment (AWS services)
 
 Final assignment for AI at scale on the cloud
 
